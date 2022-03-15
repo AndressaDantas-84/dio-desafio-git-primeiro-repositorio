@@ -1,0 +1,7 @@
+Links úteis
+
+- Download Git: https://git-scm.com/downloads
+
+- Site GitHub: https://github.com/
+
+- Sintaxe Básica Markdown: https://www.markdownguide.org/basic-syntax/
